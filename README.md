@@ -3,11 +3,10 @@
 ## 📚 Index
 1. [Introduction](#Introduction)
 2. [Requirements](#Requirements)
-3. [Technologies Used](#Technologies Used)
+3. [Technologies-Used](#Technologies-Used)
 4. [Working](#Working)
 5. [Features](#Features)
 6. [Conclusion](#Conclusion)
-7. [Project Access Link](#Project Access Link)
 
 
 ## 📖 Introduction
@@ -32,7 +31,7 @@ We also include **Exploratory Data Analysis (EDA)** for data insights and save t
 - pickle
   
 
-## 🖥️ Technologies Used
+## 🖥️ Technologies-Used
 
 - **Python 3.x** 🐍 - Primary programming language for model development.
 - **Pandas** 📊 - For data manipulation and analysis.
