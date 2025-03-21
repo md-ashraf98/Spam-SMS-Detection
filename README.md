@@ -94,7 +94,7 @@ Step-9. **Model Usage**
 - 🧹 **Advanced Text Preprocessing**: Cleaning, stopword removal, and lemmatization.
 - 🧮 **Feature Engineering**: TF-IDF based feature extraction for better performance.
 - 🧠 **Logistic Regression Model**: Lightweight and interpretable classification algorithm.
-- 📊 **Visualizations**: Includes bar plots and word clouds to make data insights clearer.
+- 📊 **Visualizations**: Includes bar plots to make data insights clearer.
 - 💾 **Model Persistence**: Trained model and vectorizer are saved and reusable.
 - 💡 **Custom Testing**: Allows input of custom SMS messages for real-time spam detection.
 - 🚀 **Scalable & Maintainable**: Easily extendable to other text classification tasks.
