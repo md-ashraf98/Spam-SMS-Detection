@@ -1,4 +1,4 @@
-# 📩 SMS Spam Classification Project
+# 📩 SMS Spam Detection Project
 
 ## 📚 Index
 1. [Introduction](#Introduction)
