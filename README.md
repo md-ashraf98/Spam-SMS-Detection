@@ -1,13 +1,13 @@
 # 📩 SMS Spam Classification Project
 
 ## 📚 Index
-1. [Introduction](#introduction)
-2. [Requirements](#requirements)
-3. [Technology Used](#technology-used)
-4. [Working](#working)
-5. [Features](#features)
-6. [Conclusion](#conclusion)
-7. [Project Access Link](#project-access-link)
+1. [Introduction](#Introduction)
+2. [Requirements](#Requirements)
+3. [Technologies Used](#Technologies Used)
+4. [Working](#Working)
+5. [Features](#Features)
+6. [Conclusion](#Conclusion)
+7. [Project Access Link](#Project Access Link)
 
 
 ## 📖 Introduction
@@ -31,6 +31,18 @@ We also include **Exploratory Data Analysis (EDA)** for data insights and save t
 - scikit-learn
 - pickle
   
+
+## 🖥️ Technologies Used
+
+- **Python 3.x** 🐍 - Primary programming language for model development.
+- **Pandas** 📊 - For data manipulation and analysis.
+- **NumPy** 🔢 - For numerical operations.
+- **Matplotlib** & **Seaborn** 📈 - For data visualization and plotting.
+- **NLTK (Natural Language Toolkit)** ✂️ - For text preprocessing (stopwords, lemmatization).
+- **Scikit-learn (sklearn)** 🤖 - For vectorization (TF-IDF) and Logistic Regression modeling.
+- **Pickle** 💾 - For saving and loading the model and vectorizer.
+- **Google Colab** 📓 - For coding, testing, and visualization.
+
 
 ## 🛠️ Working
 
