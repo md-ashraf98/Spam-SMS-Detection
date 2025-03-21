@@ -17,8 +17,6 @@ The goal of this project is to build an automated **SMS Spam Classifier** using 
 
 This project uses a labeled dataset containing SMS messages classified as either "spam" or "ham". We apply data preprocessing steps like text cleaning, stopwords removal, tokenization, and lemmatization to prepare the data. The **TF-IDF Vectorizer** is then used to convert textual data into numerical vectors, which serve as input to a **Logistic Regression** model for classification.
 
-We also include **Exploratory Data Analysis (EDA)** for data insights and save the trained model for future use. This project is a comprehensive example of applying machine learning to a real-world NLP problem.
-
 
 ## ⚙️ Requirements
 
