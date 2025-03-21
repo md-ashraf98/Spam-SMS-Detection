@@ -22,7 +22,7 @@ This project uses a labeled dataset containing SMS messages classified as either
 
 ## ⚙️ Requirements
 
-- Python 3.x
+- Python 3 version
 - pandas
 - numpy
 - matplotlib
