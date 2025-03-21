@@ -9,6 +9,7 @@
 6. [Conclusion](#Conclusion)
 
 
+
 ## 📖 Introduction
 
 In today's world of communication, SMS remains one of the most widely used forms of messaging. However, the rise in spam messages has created challenges for both users and service providers. Spam messages can include promotional content, phishing scams, or fraudulent links that compromise user security.
@@ -16,6 +17,7 @@ In today's world of communication, SMS remains one of the most widely used forms
 The goal of this project is to build an automated **SMS Spam Classifier** using **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques. The classifier aims to differentiate spam messages from legitimate ones (ham) with high accuracy.
 
 This project uses a labeled dataset containing SMS messages classified as either "spam" or "ham". We apply data preprocessing steps like text cleaning, stopwords removal, tokenization, and lemmatization to prepare the data. The **TF-IDF Vectorizer** is then used to convert textual data into numerical vectors, which serve as input to a **Logistic Regression** model for classification.
+
 
 
 ## ⚙️ Requirements
@@ -27,6 +29,7 @@ This project uses a labeled dataset containing SMS messages classified as either
 - seaborn
 - scikit-learn
 - pickle
+
   
 
 ## 🖥️ Technologies-Used
@@ -39,6 +42,7 @@ This project uses a labeled dataset containing SMS messages classified as either
 - **Scikit-learn (sklearn)** 🤖 - For vectorization (TF-IDF) and Logistic Regression modeling.
 - **Pickle** 💾 - For saving and loading the model and vectorizer.
 - **Google Colab** 📓 - For coding, testing, and visualization.
+
 
 
 ## 🛠️ Working
@@ -83,6 +87,7 @@ Step-9. **Model Usage**
    - Loaded the saved model and vectorizer for future predictions on new/unseen messages.
 
 
+
 ## 🌟 Features
 
 - 🔄 **End-to-End Pipeline**: From raw text to accurate predictions.
@@ -93,6 +98,7 @@ Step-9. **Model Usage**
 - 💾 **Model Persistence**: Trained model and vectorizer are saved and reusable.
 - 💡 **Custom Testing**: Allows input of custom SMS messages for real-time spam detection.
 - 🚀 **Scalable & Maintainable**: Easily extendable to other text classification tasks.
+
 
 
 ## 📝 Conclusion
